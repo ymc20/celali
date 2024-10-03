@@ -1,6 +1,5 @@
-listem=[1,2,3,4]
-
-for x in listem:
-    print(x)
+sahrıza=[10,20,30,40]
+for y in sahrıza:
+    print(y)
 
 
